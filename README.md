@@ -5,3 +5,9 @@ dashboard for stock analysis. We implemented stock market prediction using the L
 Language: Python
 Visualization tools: Plotly , DASH
 DataSet: TATA Power, Facebook, Tesla
+
+How to RUN the code
+
+Step1: Set the path of dataset in your system.
+Step2: Run the stockapp.py code with CTRL + SHIFT + F10 OR python3 stock_app.py
+
